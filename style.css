@@ -1,42 +1,53 @@
-
-#error44
-{
-/* taille de l'image */
-    height: 40;
-    width: 32;
-/* positionnement de m'image*/
-position : static ;
-display:block;
-width:auto;
-margin-left:auto;
-margin-right:auto;
-}
-
-#error45 /*bender image*/
-{ 
-/* taille de l'image */
-    height: 480;
-    width: 400;
-/* positionnement de m'image*/
-position : static ;
-display:block;
-width:auto;
-margin-left:auto;
-margin-right:auto;
-background: white;
-}
-
-#error46 /*bulle bd*/
-{ 
-/* taille de l'image */
-    height: 1000;
-    width: 100;
-/* positionnement de m'image*/
-position: absolute;
-top :
-left : auto 
-bottom : auto
-right : auto
-
-}
-
+.Test {
+    /* texte en bas de l'image*/
+    Color:Blue ;
+    
+    }
+    
+    #error44
+    {
+    /* taille de l'image */
+        height: 400;
+        width: 320;
+    /* positionnement de m'image*/
+    position : static ;
+    display:block;
+    width:auto;
+    margin-left:auto;
+    margin-right:auto;
+    }
+    
+    #error45 /*bender image*/
+    { 
+    /* taille de l'image */
+        height: 480;
+        width: 400;
+    /* positionnement de m'image*/
+    position : static ;
+    display:block;
+    width:auto;
+    margin-left:auto;
+    margin-right:auto;
+    background: white;
+    }
+    
+    #error46 /*bulle bd*/
+    { 
+    /* taille de l'image */
+        height: 100;
+        width: 100;
+    /* positionnement de m'image*/
+    position: absolute;
+    top :
+    left : 
+    bottom : 
+    right : 
+    
+    }
+    /*
+    position : absolute ;
+    display:block;
+    width:auto;
+    margin-left:auto;
+    margin-right:auto;
+    background: white;
