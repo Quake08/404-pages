@@ -1,14 +1,9 @@
-.Test {
-/* texte en bas de l'image*/
-Color:Blue ;
-
-}
 
 #error44
 {
 /* taille de l'image */
-    height: 400;
-    width: 320;
+    height: 40;
+    width: 32;
 /* positionnement de m'image*/
 position : static ;
 display:block;
@@ -34,20 +29,14 @@ background: white;
 #error46 /*bulle bd*/
 { 
 /* taille de l'image */
-    height: 100;
+    height: 1000;
     width: 100;
 /* positionnement de m'image*/
 position: absolute;
 top :
-left : 
-bottom : 
-right : 
+left : auto 
+bottom : auto
+right : auto
 
 }
-/*
-position : absolute ;
-display:block;
-width:auto;
-margin-left:auto;
-margin-right:auto;
-background: white;
+
