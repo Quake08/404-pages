@@ -12,11 +12,14 @@
     margin-right:auto;
     }
 #Ici { 
-    font-size: 100px;
-    color: blue ;
+    font-size: 80px;
     position : static ;
     display:block;
     width:auto;
     margin-left:auto;
     margin-right:auto;
+}
+.error { 
+    font-size: 30px;
+    text-align: center
 }
